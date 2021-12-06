@@ -1,5 +1,3 @@
-```lua
-local sexo = Tumami
 ```
 <div class="container">
   <img class = "image" src="https://images-ext-2.discordapp.net/external/vyna-2Mmf14wq8aYhR0iHPhMy-MJcStFdnpuwKcU9UY/https/c.tenor.com/AXYSMOzS4RUAAAAC/graveyard-grim.gif"></img>
@@ -12,3 +10,4 @@ local sexo = Tumami
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=black" />
 </div><br/>
 </div>
+```
