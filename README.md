@@ -1,4 +1,4 @@
-## Languages i use
+## **Languages**
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black" />
