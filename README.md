@@ -1,6 +1,6 @@
 ## **Languages**
 <div class="container">
-  <img class = "image" src="https://images-ext-1.discordapp.net/external/NAAnIJwkVypt_1hWpyivmiikdYaVbtDIXBpUWyspIAk/https/i0.wp.com/thumbs.gfycat.com/CheapImpressiveEthiopianwolf-max-1mb.gif"></img>
+  <img class = "image" src="https://images-ext-1.discordapp.net/external/WnqpoE1OLPpwWyjQLexHlSL3DEm7cj6RbRRboClyUHM/https/i.gifer.com/7Sbj.gif"></img>
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=black" />
