@@ -1,4 +1,7 @@
 ## **Languages**
+<div class="container">
+  <img class = "image" src="https://cdn.discordapp.com/attachments/822734941452238859/840866725503172618/ezgif.com-gif-maker_1.gif"></img>
+</div>
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black" />
