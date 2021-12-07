@@ -1,6 +1,6 @@
 
 <div class="container">
-  <img class = "image" src="https://images-ext-2.discordapp.net/external/vyna-2Mmf14wq8aYhR0iHPhMy-MJcStFdnpuwKcU9UY/https/c.tenor.com/AXYSMOzS4RUAAAAC/graveyard-grim.gif"></img>
+  <img class = "image" src=""></img>
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=black" />
