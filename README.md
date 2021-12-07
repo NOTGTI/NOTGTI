@@ -1,6 +1,7 @@
-
+ **:vv!!"**
+ 
 <div class="container">
-  <img class = "image" src=":v!!"></img>
+  <img class = "image" src="https://media.discordapp.net/attachments/916180407257546756/917202575915356220/DQOpkRuXcAAV_Bb.png"></img>
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=black" />
